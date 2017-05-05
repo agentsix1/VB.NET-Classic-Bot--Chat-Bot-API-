@@ -1,0 +1,11 @@
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\bin\Debug\VB.NET Classic Bot (Chat Bot API).exe.config
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\bin\Debug\VB.NET Classic Bot (Chat Bot API).exe
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\bin\Debug\VB.NET Classic Bot (Chat Bot API).pdb
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\bin\Debug\VB.NET Classic Bot (Chat Bot API).xml
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).vbprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET_Classic_Bot__Chat_Bot_API_.frmMain.resources
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET_Classic_Bot__Chat_Bot_API_.Resources.resources
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).vbproj.GenerateResource.Cache
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).exe
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).xml
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).pdb
