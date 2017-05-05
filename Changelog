@@ -1,0 +1,15 @@
+Change Log
+
+Source Release (5/5/2017 - 10:37am PDT):
+- Basic Layout Added
+- Clicking friends now changes background to select background referring to Friends
+- Clicking Channel now changes background to select background referring to Channel
+- All Labels added and named to buttons
+- Webbrowser used for chat now sets the default background to black
+- Message text box when you press enter now updates the wbChat with text
+- Friends/Channel webbrowser has been added and renamed
+- Added labels for friends count
+- Added labels for channel count
+- Added label for username
+- Username label has been set to arial with roughly same size font as well as a black background
+- When you click the label covering friends/channel count it will still change the background
