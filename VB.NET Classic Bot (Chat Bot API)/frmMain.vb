@@ -6,6 +6,8 @@
         wbChat.Document.Write(chat)
         wbChat.Refresh()
         Me.BackgroundImage = My.Resources.Channel___SC1_Layout
+        wbChat.IsWebBrowserContextMenuEnabled = False
+        wbFriendsChannel.IsWebBrowserContextMenuEnabled = False
     End Sub
 
     Private Sub sendChat(sender As Object, e As KeyEventArgs) Handles tbChat.KeyDown
@@ -44,5 +46,9 @@
         wbChat.Document.OpenNew(False)
         wbChat.Document.Write(chat & "Add Function Here")
         wbChat.Refresh()
+    End Sub
+
+    Private Sub btnCreate_Click(sender As Object, e As EventArgs) Handles btnCreate.Click
+        frmSettings.Show()
     End Sub
 End Class

@@ -9,3 +9,4 @@ c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat B
 c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).exe
 c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).xml
 c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET Classic Bot (Chat Bot API).pdb
+c:\users\jeremy\documents\visual studio 2015\Projects\VB.NET Classic Bot (Chat Bot API)\VB.NET Classic Bot (Chat Bot API)\obj\Debug\VB.NET_Classic_Bot__Chat_Bot_API_.frmSettings.resources

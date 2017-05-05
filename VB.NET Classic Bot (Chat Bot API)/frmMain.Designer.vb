@@ -48,7 +48,7 @@ Partial Class frmMain
         Me.wbChat.MinimumSize = New System.Drawing.Size(20, 20)
         Me.wbChat.Name = "wbChat"
         Me.wbChat.ScriptErrorsSuppressed = True
-        Me.wbChat.Size = New System.Drawing.Size(646, 694)
+        Me.wbChat.Size = New System.Drawing.Size(656, 694)
         Me.wbChat.TabIndex = 1
         '
         'wbFriendsChannel
