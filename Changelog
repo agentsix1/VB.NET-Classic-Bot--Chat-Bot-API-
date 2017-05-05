@@ -1,5 +1,14 @@
 Change Log
 
+Dev 0.0.1 (5/5/2017 - PDT):
+- Removed right click option in webbrowsers
+- Added frmSettings.vb
+- Renamed frmSettings to Settings - VB.NET Classic Bot
+- Added lots of items to the settings layout
+- Create now opens settings
+- Save now closes settings
+- Cancel now closes settings
+
 Source Release (5/5/2017 - 10:37am PDT):
 - Basic Layout Added
 - Clicking friends now changes background to select background referring to Friends
